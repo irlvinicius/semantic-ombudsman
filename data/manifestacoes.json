@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-08-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há vários buracos na Rua São José, principalmente próximo à escola municipal. Os veículos precisam desviar constantemente e isso aumenta o risco de acidentes."
+  },
+  {
+    "id": "M002",
+    "data": "2026-08-02",
+    "categoria_oficial": "saúde",
+    "texto": "O posto do bairro Novo Horizonte está com dificuldade para marcar consultas. Muitos moradores chegam cedo e não conseguem atendimento por falta de vagas."
+  },
+  {
+    "id": "M003",
+    "data": "2026-08-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Existe um buraco enorme na Av. Brasil, próximo ao cruzamento com a Rua Central. O problema está dificultando a passagem de carros e motocicletas."
+  },
+  {
+    "id": "M004",
+    "data": "2026-08-04",
+    "categoria_oficial": "segurança",
+    "texto": "A iluminação pública está fraca em vários pontos do bairro e a população evita caminhar pela região durante a noite. Solicito vistoria e manutenção dos postes."
+  },
+  {
+    "id": "M005",
+    "data": "2026-08-05",
+    "categoria_oficial": "educação",
+    "texto": "A escola municipal do bairro está com algumas salas sem ventilação adequada. Durante as aulas, o calor prejudica a concentração dos alunos e professores."
+  },
+  {
+    "id": "M006",
+    "data": "2026-08-06",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O terreno vazio ao lado da minha residência está sendo usado para descarte irregular de lixo. Há mau cheiro e presença constante de insetos."
+  },
+  {
+    "id": "M007",
+    "data": "2026-08-07",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua das Flores está quebrada em vários trechos. Pessoas idosas e usuários de cadeira de rodas encontram dificuldade para circular pelo local."
+  },
+  {
+    "id": "M008",
+    "data": "2026-08-08",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro está sem médico há vários dias. Os moradores procuram atendimento, mas são informados de que não há profissional disponível."
+  },
+  {
+    "id": "M009",
+    "data": "2026-08-09",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores relatam aumento de furtos de motocicletas nas proximidades do terminal de ônibus. Pedimos reforço do patrulhamento na região."
+  },
+  {
+    "id": "M010",
+    "data": "2026-08-10",
+    "categoria_oficial": "educação",
+    "texto": "A escola municipal precisa de manutenção nos banheiros. Há torneiras quebradas e problemas nas descargas, dificultando o uso adequado pelos estudantes."
+  },
+  {
+    "id": "M011",
+    "data": "2026-08-11",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O córrego próximo ao bairro apresenta grande quantidade de resíduos acumulados. A água está com aparência escura e há forte odor nas proximidades."
+  },
+  {
+    "id": "M012",
+    "data": "2026-08-12",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A rua principal do bairro está com o asfalto muito deteriorado e apresenta diversos pontos onde surgiram buracos após as últimas chuvas. Os moradores relatam que os veículos precisam reduzir a velocidade ou fazer desvios para evitar os trechos mais danificados. Durante a noite, a situação fica ainda mais difícil porque parte da iluminação da via também apresenta problemas. Além do desconforto para quem utiliza a rua diariamente, existe preocupação com motociclistas e com possíveis acidentes. A comunidade solicita uma vistoria técnica, recuperação dos trechos danificados e acompanhamento das condições do pavimento após novos períodos de chuva."
+  },
+  {
+    "id": "M013",
+    "data": "2026-08-13",
+    "categoria_oficial": "saúde",
+    "texto": "Há falta de medicamentos básicos na unidade de saúde. Alguns pacientes estão recebendo orientação para comprar por conta própria remédios que normalmente deveriam estar disponíveis."
+  },
+  {
+    "id": "M014",
+    "data": "2026-08-14",
+    "categoria_oficial": "segurança",
+    "texto": "O semáforo localizado próximo à praça está apresentando falhas e permanece muito tempo aberto para uma das vias. A situação pode provocar acidentes."
+  },
+  {
+    "id": "M015",
+    "data": "2026-08-15",
+    "categoria_oficial": "educação",
+    "texto": "Os computadores do laboratório de informática da escola estão antigos e vários equipamentos não funcionam. Os alunos estão tendo dificuldade para realizar as atividades."
+  },
+  {
+    "id": "M016",
+    "data": "2026-08-16",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A coleta de lixo não está acontecendo regularmente na comunidade. Sacos permanecem acumulados por vários dias nas calçadas e atraem animais."
+  },
+  {
+    "id": "M017",
+    "data": "2026-08-17",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal do bairro. Existem vários trechos danificados que dificultam a circulação de veículos."
+  },
+  {
+    "id": "M018",
+    "data": "2026-08-18",
+    "categoria_oficial": "saúde",
+    "texto": "A unidade de saúde está enfrentando demora para realizar exames. Pacientes aguardam há semanas por procedimentos que foram solicitados pelos médicos e algumas pessoas relatam dificuldade para obter informações sobre a posição da fila. Em determinados casos, os exames são necessários para dar continuidade ao diagnóstico e ao tratamento. Os moradores também informam que precisam retornar várias vezes à unidade para tentar descobrir quando haverá disponibilidade. A manifestação solicita melhoria na organização das solicitações, divulgação de informações sobre os prazos e ampliação da capacidade de atendimento quando houver demanda acumulada."
+  },
+  {
+    "id": "M019",
+    "data": "2026-08-19",
+    "categoria_oficial": "segurança",
+    "texto": "A praça do bairro está sem iluminação adequada durante a noite. A falta de luz deixa o local vazio e aumenta a sensação de insegurança dos moradores."
+  },
+  {
+    "id": "M020",
+    "data": "2026-08-20",
+    "categoria_oficial": "educação",
+    "texto": "A escola precisa substituir algumas carteiras que estão quebradas. Os estudantes estão utilizando móveis danificados durante as aulas."
+  },
+  {
+    "id": "M021",
+    "data": "2026-08-21",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Foi identificado descarte de entulho em uma área próxima ao rio. O material está ocupando parte da margem e pode ser levado pela chuva para dentro da água."
+  },
+  {
+    "id": "M022",
+    "data": "2026-08-22",
+    "categoria_oficial": "saúde",
+    "texto": "Há falta de atendimento no PSF do bairro. Os moradores procuram a unidade, mas encontram dificuldade para conseguir consulta e orientação médica."
+  },
+  {
+    "id": "M023",
+    "data": "2026-08-23",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A tampa de um bueiro está quebrada na Rua do Comércio. O buraco fica no meio da pista e representa risco para motociclistas."
+  },
+  {
+    "id": "M024",
+    "data": "2026-08-24",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores estão preocupados com a falta de policiamento nas proximidades do mercado municipal, especialmente no período da noite."
+  },
+  {
+    "id": "M025",
+    "data": "2026-08-25",
+    "categoria_oficial": "educação",
+    "texto": "A biblioteca da escola possui poucos livros atualizados. Os professores relatam dificuldade para encontrar materiais adequados para algumas atividades pedagógicas."
+  },
+  {
+    "id": "M026",
+    "data": "2026-08-26",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A praça do bairro possui várias árvores sem manutenção. Alguns galhos estão muito grandes e podem cair sobre a calçada em dias de vento forte."
+  },
+  {
+    "id": "M027",
+    "data": "2026-08-27",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Depois das últimas chuvas, a estrada de acesso à comunidade ficou cheia de lama e valas. O transporte escolar está encontrando dificuldade para passar e alguns moradores afirmam que veículos menores estão evitando o trajeto. A estrada é utilizada diariamente para deslocamento de trabalhadores, estudantes e pessoas que precisam chegar à unidade de saúde mais próxima. Quando chove novamente, os pontos mais baixos acumulam água e ficam praticamente intransitáveis. A comunidade solicita nivelamento do terreno, recuperação dos trechos críticos e implantação de medidas de drenagem que reduzam a formação de valas durante o período chuvoso."
+  },
+  {
+    "id": "M028",
+    "data": "2026-08-28",
+    "categoria_oficial": "saúde",
+    "texto": "O atendimento para vacinação está demorando muito porque existe apenas um funcionário responsável pela aplicação e pelo cadastro dos pacientes."
+  },
+  {
+    "id": "M029",
+    "data": "2026-08-29",
+    "categoria_oficial": "segurança",
+    "texto": "A faixa de pedestres em frente à escola está praticamente apagada. Nos horários de entrada e saída, muitos veículos passam rapidamente pelo local."
+  },
+  {
+    "id": "M030",
+    "data": "2026-08-30",
+    "categoria_oficial": "educação",
+    "texto": "A quadra esportiva da escola está com o piso danificado e algumas partes da estrutura apresentam sinais de desgaste. Os alunos estão evitando utilizá-la."
+  },
+  {
+    "id": "M031",
+    "data": "2026-08-31",
+    "categoria_oficial": "segurança",
+    "texto": "Há uma lâmpada queimada na praça central do bairro. O local fica muito escuro durante a noite e os moradores solicitam a troca da iluminação."
+  },
+  {
+    "id": "M032",
+    "data": "2026-09-01",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Existe acúmulo de lixo doméstico em uma área próxima ao campo de futebol. O material permanece exposto e provoca mau cheiro para quem mora nas redondezas."
+  },
+  {
+    "id": "M033",
+    "data": "2026-09-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A sinalização horizontal de várias ruas está apagada e precisa ser refeita. Em alguns cruzamentos, os motoristas têm dificuldade para identificar as faixas."
+  },
+  {
+    "id": "M034",
+    "data": "2026-09-03",
+    "categoria_oficial": "saúde",
+    "texto": "Minha mãe precisa retirar um medicamento de uso contínuo na unidade, mas o remédio está em falta novamente. A situação já aconteceu em outros meses."
+  },
+  {
+    "id": "M035",
+    "data": "2026-09-04",
+    "categoria_oficial": "segurança",
+    "texto": "O bairro tem registrado barulho excessivo durante a madrugada devido a estabelecimentos que permanecem abertos até tarde. Os moradores pedem fiscalização."
+  },
+  {
+    "id": "M036",
+    "data": "2026-09-05",
+    "categoria_oficial": "educação",
+    "texto": "A escola está com problemas no telhado e, quando chove, algumas salas ficam com o piso molhado. A direção precisa improvisar para proteger os equipamentos e os alunos, colocando recipientes para recolher a água e afastando mesas das áreas afetadas. Professores relatam que o problema interfere nas aulas e que algumas atividades precisam ser transferidas para outras salas. Existe preocupação com a segurança dos estudantes, principalmente porque o piso molhado pode provocar quedas. A comunidade escolar solicita uma vistoria na cobertura, reparo das infiltrações e manutenção preventiva antes do próximo período de chuvas."
+  },
+  {
+    "id": "M037",
+    "data": "2026-09-06",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Solicito fiscalização de uma oficina que está descartando óleo e outros resíduos de forma inadequada. O material pode contaminar o solo e chegar à rede de drenagem, principalmente durante períodos de chuva. Moradores próximos relatam manchas no chão e presença de resíduos líquidos nas proximidades do estabelecimento. A preocupação aumenta porque existe uma galeria de águas pluviais relativamente próxima ao local. A comunidade solicita uma vistoria dos órgãos responsáveis, orientação sobre o armazenamento e descarte correto dos resíduos e, caso sejam confirmadas irregularidades, a adoção das medidas administrativas cabíveis para evitar novos impactos ambientais."
+  },
+  {
+    "id": "M038",
+    "data": "2026-09-07",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A avenida principal precisa de reparos urgentes. O pavimento apresenta muitas irregularidades e buracos, especialmente no trecho próximo ao mercado."
+  },
+  {
+    "id": "M039",
+    "data": "2026-09-08",
+    "categoria_oficial": "saúde",
+    "texto": "A fila para atendimento na unidade básica começa antes do amanhecer e muitos pacientes não conseguem ser atendidos no mesmo dia. É necessário melhorar a organização das consultas."
+  },
+  {
+    "id": "M040",
+    "data": "2026-09-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O parque municipal está com diversas lixeiras cheias e resíduos espalhados. A situação piora nos finais de semana e precisa de reforço na limpeza."
+  }
+]
